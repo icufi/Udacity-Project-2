@@ -60,7 +60,7 @@ navScrollTo();
 // change section and nav link to css active when in viewport
 setTimeout(() => window.addEventListener('scroll', function () {elementActiveStates();} ), 0);
 
-// create menu on mobile
+//menu on mobile
 const navActive = () => {
   const burger = document.querySelector('.burger');
   const navbarList = document.querySelector('.navbarList');
@@ -85,5 +85,5 @@ const navActive = () => {
 
 
 }
-
+// create mobile menu
 navActive();
