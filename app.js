@@ -79,7 +79,7 @@ const navActive = () => {
       }
     });
     // animate burger icon
-    burger.classList.toggle('toggle');
+    burger.classList.toggle('activeLine');
 
   });
 

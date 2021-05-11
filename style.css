@@ -336,15 +336,15 @@ section.your-active-class .landing__container::after {
     }
   }
 
-  .toggle .line1 {
+  .activeLine .line1 {
     transform: rotate(-45deg) translate(-5px, 6px);
   }
 
-  .toggle .line2 {
+  .activeLine .line2 {
     opacity: 0;
   }
 
-  .toggle .line3 {
+  .activeLine .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
   }
 }
