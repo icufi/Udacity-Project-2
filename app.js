@@ -1,6 +1,6 @@
 /**
  *
- * Manipulating the DOM exercise.
+ * Manipulating the DOM exercis.
  * Exercise programmatically builds navigation,
  * scrolls to anchors from navigation,
  * and highlights section in viewport upon scrolling.
