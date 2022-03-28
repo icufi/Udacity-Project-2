@@ -1,3 +1,3 @@
-# Udacity Project 2
-Landing page project with dynamic navbar creation, smoothscroll navigation to sections and visual cues for section elements in viewport.
+# Overview
+This project is a landing page that employs several types of Javascript loops to create a dynamic navbar, smoothscroll navigation to content sections and visual cues for section elements in users viewport.
 
